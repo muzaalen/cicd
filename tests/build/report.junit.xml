@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="converter" tests="4" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.066911">
+    <testsuite name="SitePoint\Converter\ConverterTest" file="/var/www/html/TDD/Code/converter/tests/SitePoint/Converter/ConverterTest.php" tests="4" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.066911">
+      <testsuite name="SitePoint\Converter\ConverterTest::testStringConversionSuccess" tests="4" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.066911">
+        <testcase name="testStringConversionSuccess with data set #0" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/TDD/Code/converter/tests/SitePoint/Converter/ConverterTest.php" line="164" assertions="1" time="0.015749"/>
+        <testcase name="testStringConversionSuccess with data set #1" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/TDD/Code/converter/tests/SitePoint/Converter/ConverterTest.php" line="164" assertions="1" time="0.008508"/>
+        <testcase name="testStringConversionSuccess with data set #2" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/TDD/Code/converter/tests/SitePoint/Converter/ConverterTest.php" line="164" assertions="1" time="0.002297"/>
+        <testcase name="testStringConversionSuccess with data set #3" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/TDD/Code/converter/tests/SitePoint/Converter/ConverterTest.php" line="164" assertions="1" time="0.040357"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
